@@ -44,5 +44,4 @@ System.out.println("I finally made it!");
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> 
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosabdwaikat&show_icons=true&locale=en&layout=compact" alt="mosabdwaikat" />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mosabdwaikat&show_icons=true&locale=en" alt="mosabdwaikat" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mosabdwaikat&" alt="mosabdwaikat" /></p>
+
