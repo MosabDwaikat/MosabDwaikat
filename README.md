@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosabdwaikat&label=Profile%20views&color=0e75b6&style=flat" alt="mosabdwaikat" /> </p>
 
 <h1 align="center">Hi 👋, I'm Mosab Dwaikat ☕💻</h1> 
-<h3 align="center">A soon-to-be Computer Engineer >> NNU</h3>
+<h3 align="center">Computer Engineer >> NNU</h3>
 <h3 align="center">Software Engineering - Web Development - Frontend</h3>
 
 ```
@@ -11,7 +11,6 @@ while (!success){
 System.out.println("I finally made it!");
 ```
 
-- 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **anything, I'll try to help**
 
